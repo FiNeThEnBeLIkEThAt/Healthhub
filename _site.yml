@@ -1,0 +1,14 @@
+name: "."
+title: "Mhealth Hub"
+description: |
+  name of your website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "⭒Quotes⭒"
+      href: Quotes.html
+output: distill::distill_article
