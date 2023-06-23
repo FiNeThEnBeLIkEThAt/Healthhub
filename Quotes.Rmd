@@ -1,0 +1,16 @@
+---
+title: "⭒Quotes⭒"
+description: |
+   Quotes to give you motivation
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Add more info here
+
+
+
