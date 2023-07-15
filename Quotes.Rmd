@@ -10,7 +10,25 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Add more info here
+-“We would never tell someone with a broken leg that they should stop wallowing and get it together. We don’t consider taking medication for an ear infection something to be ashamed of. We shouldn’t treat mental health conditions any differently.”
+— Michelle Obama
+
+-“There is hope, even when your brain tells you there isn’t.”
+— John Green
+
+-“You don’t have to control your thoughts. You just have to stop letting them control you.”
+— Dan Millman
+
+-“If you are broken, you do not have to stay broken.”
+— Selena Gomez
+
+-“Your worst enemy cannot harm you as much as your own unguarded thoughts.”
+— Buddha
+
+-“Mental health problems don’t define who you are. They are something you experience. You walk in the rain and you feel the rain, but, importantly, you are not the rain.”
+— Matt Haig
+
+
 
 
 

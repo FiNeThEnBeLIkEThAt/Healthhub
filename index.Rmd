@@ -15,11 +15,12 @@ site: distill::distill_website
  
 ## What do we do?
  
-We provide a mental health hub where you can get motivation and be able to understand your problems. We provide support and help you understand what's going on. Go check out our pages!
+We provide a mental health hub where you can get motivation and be able to understand your problems. We provide support and help you understand what's going on. Go check out our pages!✨
 
 
-### By
 
- R. 
+
+
+  
 
 

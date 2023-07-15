@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Agdasima&display=swap');
+install.packages("usethis")
 /* base variables */
 
 /* Edit the CSS properties in this file to create a custom
@@ -27,8 +27,8 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    Agdasima;
-  --mono-font:       Agdasima;
+  --heading-font:    sans-serif;
+  --mono-font:       monospace;
   --body-font:       sans-serif;
   --navbar-font:     sans-serif;  /* websites + blogs only */
 }
@@ -76,21 +76,3 @@ d-appendix {
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
-h1 {
-      color: #9E8576;
-      font-size: 36px;
-    }
-    
-.btn-outline-dark  {
-        background-color: #FACFAD; 
-        color:  #41463D;
-        border: #41463D;
-        border-color: #FACFAD;
-    }
-    
-
-    .btn-outline-dark:hover {
-        background-color: #595A4A;
-        border-color: #595A4A;
-        color: #595A4A;
-    }
